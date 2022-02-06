@@ -1,9 +1,10 @@
 import * as React from 'react'
 import './App.css'
 
-export default function App() {
+export default function Header() {
   return (
-    <main>
-    </main>
+   <>
+   <h1>Header</h1>
+   </>
   )
 }
